@@ -5,8 +5,6 @@ NOTE: do not modify this code do your tasks on your folders
 from teammate_one.add import addition
 from teammate_two.subtract import subtraction
 
-MIN = 5
-
 # need to find a better function test to check if both users have tried git on thier end
 def test_collaboration(a, b):
 
