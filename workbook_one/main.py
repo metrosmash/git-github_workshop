@@ -5,13 +5,6 @@ NOTE: do not modify this code do your tasks on your folders
 from teammate_one.add import addition
 from teammate_two.subtract import subtraction
 
-"""
-NOTE: do not modify this code do your tasks on your folders 
-"""
-
-from teammate_one.add import addition
-from teammate_two.subtract import subtraction
-
 
 # explanation on the testing and the criteron here 
 def test_collaboration(a, b):
