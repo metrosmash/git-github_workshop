@@ -1,4 +1,8 @@
-## Instructions
+## Teammate Two: Subtraction
 
-Instructions for teammate one to create a file named `subtract.py` and create a function `subtraction`
-that takes in two numbers (`a` and `b` )and `subtract` them together (to return `C`)
+Your task is to create `subtract.py` in this folder and add a function named `subtraction`.
+The function should:
+- Accept two numbers named `a` and `b`.
+- Subtract `b` from `a`.
+- Return the result.
+After completing the task, create a branch, commit your file, push the branch to GitHub, and open a pull request. Do not edit `workbook_one/main.py`; that file belongs to the shared project and is used after both teammates finish.
