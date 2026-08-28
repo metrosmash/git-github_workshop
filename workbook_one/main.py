@@ -13,16 +13,6 @@ from teammate_two.subtract import subtraction
 # These sample values let the shared check run after both files are merged.
 
 
-def test_collaboration(a, b):
-    teamate_one_add = addition(a, b)
-    
-    teamate_two_subtract = subtraction(a, b)
-    
-    
-    if teamate_one_add > teamate_two_subtract:
-        print("Passed: Addition is greater than Subtraction")
-    else:
-        print("Failed: Addition is not greater than Subtraction")
 
 def test_collaboration(a, b):
 
