@@ -25,7 +25,7 @@ jobs:
       run: echo "testing main.py"
     - name: Run main.py
       run: |
-        python main.py
+        python workbook_one/main.py
     - name: Announce job status
       run: echo " ${{ job.status }}."
 
